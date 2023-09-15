@@ -49,7 +49,7 @@ button {
 
 .calculator__result {
   all: unset;
-  color: #eee;
+  color: inherit;
   width: 92%;
   height: 3rem;
   display: flex;
